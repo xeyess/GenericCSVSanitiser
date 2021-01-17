@@ -1,0 +1,10 @@
+C:\Users\Huy\source\repos\GenericCSVSanitiser\GenericCSVSanitiser\bin\Debug\GenericCSVSanitiser.exe.config
+C:\Users\Huy\source\repos\GenericCSVSanitiser\GenericCSVSanitiser\bin\Debug\GenericCSVSanitiser.exe
+C:\Users\Huy\source\repos\GenericCSVSanitiser\GenericCSVSanitiser\bin\Debug\GenericCSVSanitiser.pdb
+C:\Users\Huy\source\repos\GenericCSVSanitiser\GenericCSVSanitiser\obj\Debug\GenericCSVSanitiser.csprojAssemblyReference.cache
+C:\Users\Huy\source\repos\GenericCSVSanitiser\GenericCSVSanitiser\obj\Debug\GenericCSVSanitiser.csproj.CoreCompileInputs.cache
+C:\Users\Huy\source\repos\GenericCSVSanitiser\GenericCSVSanitiser\obj\Debug\GenericCSVSanitiser.exe
+C:\Users\Huy\source\repos\GenericCSVSanitiser\GenericCSVSanitiser\obj\Debug\GenericCSVSanitiser.pdb
+C:\Users\Huy\source\repos\GenericCSVSanitiser\GenericCSVSanitiser\bin\Debug\ReverseGeocoder.dll
+C:\Users\Huy\source\repos\GenericCSVSanitiser\GenericCSVSanitiser\bin\Debug\ReverseGeocoder.pdb
+C:\Users\Huy\source\repos\GenericCSVSanitiser\GenericCSVSanitiser\obj\Debug\GenericCSVSanitiser.csproj.CopyComplete
