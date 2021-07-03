@@ -13,6 +13,6 @@ To use the program you must use 3 arguments:
 *eg. GenericCSVSanitiser.exe woolies.csv column(0,1) Victoria
 It will output a sanitised file with only the data values corresponding to Victoria.
 
-##Resources
+## Resources
 - All Cities DB: https://www.geonames.org/
 - Australian Cities to State DB: https://simplemaps.com/data/au-cities
