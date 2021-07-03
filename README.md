@@ -14,5 +14,5 @@ To use the program you must use 3 arguments:
 It will output a sanitised file with only the data values corresponding to Victoria.
 
 ##Resources
-All Cities DB: https://www.geonames.org/
-Australian Cities to State DB: https://simplemaps.com/data/au-cities
+- All Cities DB: https://www.geonames.org/
+- Australian Cities to State DB: https://simplemaps.com/data/au-cities
