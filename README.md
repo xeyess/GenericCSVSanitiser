@@ -1,5 +1,5 @@
 # GenericCSVSanitiser
- A basic version of a CSV Sanitiser used for a data-based project.
+ A very basic version of a CSV Sanitiser used for a data-based project.
  Will take two columns of data from a spreadsheet and export them into a seperate csv.
  
 To use the program you must use 3 arguments:
@@ -13,3 +13,6 @@ To use the program you must use 3 arguments:
 *eg. GenericCSVSanitiser.exe woolies.csv column(0,1) Victoria
 It will output a sanitised file with only the data values corresponding to Victoria.
 
+## Resources
+- All Cities DB: https://www.geonames.org/
+- Australian Cities to State DB: https://simplemaps.com/data/au-cities
