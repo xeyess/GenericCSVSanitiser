@@ -17,7 +17,7 @@ namespace GenericCSVSanitiser
         
         public CsvLoader(string fileName)
         {
-            //Australian Cities DB
+            //Australian Cities DB (simplemaps.com)
             StreamReader sr2 = new StreamReader(Environment.CurrentDirectory + "/cities/au_cities.csv");
             string data = sr2.ReadLine();
             string line2; //out category
@@ -30,7 +30,7 @@ namespace GenericCSVSanitiser
             }
             sr2.Close();
 
-            //ReverseGeocode Cities DB (Geocites)
+            //ReverseGeocode Cities DB (geonames.org)
             rgeo = new ReverseGeocoder(Environment.CurrentDirectory + "/cities/cities1000.txt");
             StreamReader sr = new StreamReader(fileName);
             string columns = sr.ReadLine();
